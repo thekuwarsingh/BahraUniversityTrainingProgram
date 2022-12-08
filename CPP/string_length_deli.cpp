@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    string sentence = "Hello Pushpa Khana Khaya Kya?";
+    string sentence = "Bahra University is Located in Waknaghat!";
     cout<<"The length of the string is : "<<sentence.length();
     return 0;
 }
